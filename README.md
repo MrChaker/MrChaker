@@ -3,7 +3,7 @@
 <h3>About Me :</h3>
 <ul>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
-<li>💻 MERN Stack Developer</li>
+<li>💻 Full Stack Developer</li>
 <li>📫 How to reach me: chaker.atallah@pinely.eu</li>
 <li>I've been using bitBucket for work , that's why contribution graph is not very stacked </li>
 </ul>

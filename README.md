@@ -4,8 +4,9 @@
 <ul>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 <li>💻 Full Stack Developer</li>
+<li>🦂 Rust developer</li>
 <li>📫 How to reach me: mr.chakerw@gmail.com</li>
-<li>I've been using bitBucket for work , that's why contribution graph is not very stacked </li>
+
 </ul>
 
 <div>

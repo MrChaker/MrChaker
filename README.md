@@ -44,7 +44,7 @@ Recent things I've shipped:
 ### 📌 Selected projects
 
 - **[activepieces/activepieces](https://github.com/activepieces/activepieces)** — open-source AI workflow automation; core platform contributor
-- **[tauri-plugin-keygen](https://github.com/MrChaker/tauri-plugin-keygen)** — software licensing for Tauri apps via Keygen.sh
+- **[writerly-vscode](https://github.com/MrChaker/writerly-vscode)** — VS Code extension adding language support for Writerly
 - **[roman_gleam](https://github.com/MrChaker/roman_gleam)** — Roman numeral library written in Gleam
 - **[3dEditor](https://github.com/MrChaker/3dEditor)** — browser-based 3D scene editor
 

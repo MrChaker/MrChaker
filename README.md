@@ -5,6 +5,8 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/chaker-atallah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/atallah_mr"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:mr.chakerw@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=MrChaker&style=for-the-badge&color=8142E3" alt="Profile views"/>
 </p>

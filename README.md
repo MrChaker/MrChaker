@@ -20,7 +20,6 @@ I'm a platform engineer at **[Activepieces](https://github.com/activepieces/acti
 Recent things I've shipped:
 
 - 🔐 **Enterprise SSO** — SAML support and admin-only SSO domain DNS verification for self-serve onboarding
-- 🌐 **Embedding & security** — host resolution via `X-Forwarded-Host`, embed CSP hardening, and configurable embed origins
 - 🏢 **Multi-tenancy** — platform-creation flows, federated signup, and edition-aware (CE / EE / Cloud) behavior
 - 📊 **Observability** — platform metrics, run statistics dashboards, and product telemetry
 - 🛠️ **Developer experience & CI/CD** — release pipelines, migration checks, and engine hot-rebuild tooling
